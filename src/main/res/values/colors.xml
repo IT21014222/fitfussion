@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="schdule_bg">#9AB59A</color>
+    <color name="schedule_dbg">#B9D8B9</color>
+    <color name="p_btn">#C30000</color>
+    <color name="widget_bg">#56B7C3B7</color>
+</resources>
